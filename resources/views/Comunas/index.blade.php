@@ -23,9 +23,9 @@
             <thead>
               <tr class="text-center" style="background-color: greenyellow">
                 <th scope="col">Id</th>
-                <th scope="col">Commune</th>
-                <th scope="col">municipality</th>
-                <th scope="col">options</th>
+                <th scope="col">Comuna</th>
+                <th scope="col">municipio</th>
+                <th scope="col">opciones</th>
               </tr>
             </thead>
             <tbody>
